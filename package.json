@@ -4,7 +4,9 @@
    "description": "",
    "main": "index.js",
    "scripts": {
-      "test": "jest --collectCoverage=false"
+      "test": "jest --coverage"
+      
+          
    },
    "author": "Henry",
    "license": "ISC",
